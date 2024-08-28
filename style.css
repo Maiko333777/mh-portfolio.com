@@ -989,6 +989,9 @@ input[type="submit"]:hover {
         max-width: 97%;
     }
 
+    .bg-works {
+        background: linear-gradient(90deg, rgb(123, 102, 38), rgb(64, 6, 14));
+    }
     
 }
 
