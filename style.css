@@ -989,11 +989,7 @@ input[type="submit"]:hover {
         max-width: 97%;
     }
 
-    .bg-about,
-    .bg-skill,
-    .bg-works {
-        background-size: unset;
-    }
+    
 }
 
 /* ⇑ 550px ⇑ */
