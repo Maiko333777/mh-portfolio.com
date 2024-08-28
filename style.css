@@ -224,7 +224,7 @@ h1 {
 
 .bg-about {
     background-attachment: fixed;
-    background-image: url(../img/about/NYC_forPortrait111.jpg);
+    background-image: url(img/about/NYC_forPortrait111.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -404,7 +404,7 @@ footer {
     text-align: center;
     color: white;
     background-attachment: fixed;
-    background-image: url(../images/toronto-73508_1280.jpg);
+    background-image: url(img/skill/bg-to.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
